@@ -45,8 +45,7 @@
 
 ---
 
-## 👾  What I’m Interested in Learning
-
+## 👾 Areas of Research & Interests
 [<img src="https://img.shields.io/badge/Reinforcement%20Learning-00A67E?logo=openai&logoColor=FFFFFF" alt="Reinforcement Learning" height="25"/>](#)
 &nbsp;
 [<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?logo=opencv&logoColor=FFFFFF" alt="Computer Vision" height="25"/>](#)
