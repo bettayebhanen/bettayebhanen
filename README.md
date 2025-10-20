@@ -62,8 +62,6 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" height="25"/>](https://www.linkedin.com/in/hanen-bettayeb-a8972638b/)
 &nbsp;
-[<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=FFFFFF" alt="GitHub" height="25"/>](https://github.com/hanenbettayeb)
-&nbsp;
 [<img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=FFFFFF" alt="Gmail" height="25"/>](mailto:hanenbettayeb91@gmail.com)
 
 ---
